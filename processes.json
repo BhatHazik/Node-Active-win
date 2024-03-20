@@ -1,15 +1,1 @@
-[
-  {
-    "activeWindow": "processes.json - Node-active-win-master - Visual Studio Code",
-    "processName": "Visual Studio Code",
-    "timeStart": "3/19/2024, 3:33:59 PM",
-    "timeSpent": 0
-  },
-  {
-    "url": "https://chat.openai.com/c/14c26c45-7613-4af5-8447-75914cb4a2ad",
-    "activeWindow": "ChatGPT - Google Chrome",
-    "processName": "Google Chrome",
-    "timeStart": "3/19/2024, 3:38:21 PM",
-    "timeSpent": 0
-  }
-]
+[{"activeWindow":"processes.json - Node-active-win-master - Visual Studio Code","processName":"Visual Studio Code","timeStart":"3/20/2024, 2:18:15 PM","timeSpent":414.7000000000004,"minuteTimeSpent":6.911666666666664},{"activeWindow":"","processName":"Windows Explorer","timeStart":"3/20/2024, 2:24:46 PM","timeSpent":61.900000000000006,"minuteTimeSpent":1.0316666666666667},{"activeWindow":"MINGW64:/c/Users/Universal/Desktop/RAYBIT PRACTICE/Node-active-win-master","processName":"MSYS2 terminal","timeStart":"3/20/2024, 2:25:46 PM","timeSpent":null,"minuteTimeSpent":null}]
